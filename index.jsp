@@ -105,7 +105,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Mohit Kumar</h1>
+    <h1>Mohit Kumar - Test</h1>
     <p>Your first &AWS; Elastic Beanstalk Application is now running on your own dedicated environment in the &AWS; Cloud</p>
   </div>
   
